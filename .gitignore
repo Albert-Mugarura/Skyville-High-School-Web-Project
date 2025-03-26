@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PHP and web project specific
+*.log
+*.bak
+*.swp
+vendor/
+node_modules/
+
+# Sensitive configuration files
+*.env
+config.php
+
+# PDF and large binary files
+*.pdf
+*.zip
